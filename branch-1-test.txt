@@ -1,2 +1,1 @@
-lore ipsum
-nie lotre ipsum
+lore ipsum. Testowy tekst.
